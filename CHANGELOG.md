@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.1.13
+
+* Stick stdlib version
+  
 ## 0.1.12
 
 * added support for **Ubuntu 20.04**
