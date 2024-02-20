@@ -1,12 +1,12 @@
 {
   "name": "eyp-apt",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "author": "Jordi Prats",
   "summary": "apt management",
   "license": "Apache-2.0",
-  "source": "https://github.com/SaltaIT/eyp-apt",
-  "project_page": "https://github.com/SaltaIT/eyp-apt",
-  "issues_url": "https://github.com/SaltaIT/eyp-apt/issues",
+  "source": "https://github.com/NTTCom-MS/eyp-apt",
+  "project_page": "https://github.com/NTTCom-MS/eyp-apt",
+  "issues_url": "https://github.com/NTTCom-MS/eyp-apt/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0 < 4.12.0"},
     {"name":"eyp/eyplib","version_requirement":">= 0.1.12 < 2.0.0"}
